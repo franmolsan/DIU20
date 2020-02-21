@@ -1,7 +1,7 @@
 # DIU20
 Prácticas Diseño Interfaces de Usuario 2019-20 (Economía Colaborativa) 
 
-Grupo: DIU1_01AABB.  Curso: 2019/20 
+Grupo: DIU2.MAF.  Curso: 2019/20 
 
 Proyecto: 
 
@@ -10,8 +10,8 @@ Descripción:
 Logotipo: 
 
 Miembros
- * :bust_in_silhouette:   AA     :octocat:     
- * :bust_in_silhouette:  BB     :octocat:
+ * :bust_in_silhouette:  Francisco José Molina Sánchez     :octocat:     
+ * :bust_in_silhouette:  Miguel Ángel Molina Jordán     :octocat:
 
 ----- 
 
