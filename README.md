@@ -10,9 +10,9 @@ Descripción:
 Logotipo: 
 
 Miembros
- * :bust_in_silhouette:  Francisco José Molina Sánchez     :octocat:     
+ * :bust_in_silhouette:  Francisco José Molina Sánchez     :octocat:  
   [@franmolsan](https://github.com/franmolsan)
- * :bust_in_silhouette:  Miguel Ángel Molina Jordán     :octocat:
+ * :bust_in_silhouette:  Miguel Ángel Molina Jordán     :octocat:  
   [@MangelMolina](https://github.com/MangelMolina)
 
 ----- 
@@ -33,23 +33,23 @@ Qué es economia colaborativa: Martínez-Polo, J. (2019). **El fenómeno del con
 -----
 
 ### ALTERNATIVA 1: BADI 
-<https://badi.com/es/>
+<https://badi.com/es/>  
 Cuenta con una guía de uso en la página principal.
 Buscador fácil de utilizar y muy completo, con opciones para ajustarse al presupuesto, número  de compañeros, etc.
 Muestra mucha información de cada alojamiento: fotos, ubicación, disponibilidad, estancia mínima, compañeros de piso, tamaño de la habitación o piso, comodidades (calefacción, tv, etc.), entre otras.
 
 ### ALTERNATIVA 2: COUCHSURFING
-<https://www.couchsurfing.com/>
+<https://www.couchsurfing.com/>  
 No permite buscar alojamientos directamente, antes necesitas registrarte.
 La páginas de términos y condiciones, ayuda y contacto  están en inglés directamente, no en español.
 Una vez que te registras, ya puedes buscar alojamientos, grupos, eventos, etc. Aunque tiene muchas funcionalidades, es compleja en comparación con las otras alternativas y un poco confusa; hay demasiada información a la vez.
 
 ### ALTERNATIVA 3: COMPARTE TU PISO
-<https://compartetupiso.com/>
+<https://compartetupiso.com/>  
 No permite buscar alojamientos antes de registrarse (igual que couchsurfing).
 Tiene muchos problemas: aunque tengamos la sesión iniciada, el botón de iniciar sesión sigue apareciendo, una vez que se cierra la sesión que se crea al registrarse  no se puede iniciar porque la página de inicio de sesión está incompleta (no tiene ni formulario); no se puede buscar (o al menos no fácilmente), etc.
 
-![Iniciar sesión incompleto](P1/ComparteTuPisoLogin.jpg "No se puede iniciar sesion")
+![Iniciar sesión incompleto](P1/ComparteTuPisoLogin.JPG "No se puede iniciar sesion")
 
 ### ALTERNATIVA 4: PISO COMPARTIDO
 <https://www.pisocompartido.com/>
@@ -67,7 +67,10 @@ Hemos seleccionado a estas personas porque son perfiles muy distintos, pero a la
 - Mario es estudiante y no dispone de suficiente dinero, por lo que CouchSurfing es una alternativa a los viajes convencionales para ahorrar y seguir viajando. Además Mario estudia Traducción e Interpretación, por lo que le gusta mucho conocer a los nativos del lugar que está visitando e intentar aprender su idioma y costumbres.
 
 ![PersonaJosefina](P1/PersonaJosefina.jpg "Josefina")
-![PersonaMario](P1/PersonaMario.jpg "Mario")
+![PersonaMario](P1/PersonaMario.jpg "Mario")  
+
+[Ficha Josefina](P1/PersonaJosefina.jpg "Josefina")  
+[Ficha Mario](P1/PersonaMario.jpg "Mario")  
 
 ![Método UX](img/JourneyMap.png) 1.c User Journey Map
 ----
@@ -75,17 +78,17 @@ Hemos escogido estas experiencias de usuario porque reflejan la complejidad de l
 - La experiencia de Josefina es negativa, porque hay demasiadas opciones en la página y tiene que introducir muchos datos para completar su perfil y poder hablar con anfitriones. Además, no le gustó que algunos elementos de la página estuvieran en inglés, como la ayuda o la búsqueda.
 - La experiencia de Mario fue positiva, ya que consiguió contactar con un anfitrión en Polonia con el que llegó a un acuerdo para alojarse, aunque le pareció incómodo tener que introducir tanta información antes de poder hablar con los anfitriones.
 
+![Journey Josefina](P1/JourneyJosefina.jpg "Josefina")  
+![Journey Mario](P1/JourneyMario.jpg "Mario")  
+
+[Journey Josefina](P1/JourneyJosefina.jpg "Josefina")  
+[Journey Mario](P1/JourneyMario.jpg "Mario") 
 
 ![Método UX](img/usabilityReview.png) 1.d Usability Review
 ----
->>>  Revisión de usabilidad: (toma los siguientes documentos de referncia y verifica puntos de verificación de  usabilidad
->>>> SE deben incluir claramente los siguientes elementos
->>> - Enlace al documento:  (sube a github el xls/pdf) 
->>> - Valoración final (numérica): 
->>> - Comentario sobre la valoración:  (60-120 caracteres)
 
-[Documento de revisión de usabilidad](P1/UsabilityReviewCouchsurfing.jpg)
-Valoración final: 83 - Buena.
+[Documento de revisión de usabilidad](P1/UsabilityReviewCouchsurfing.jpg)  
+Valoración final: 83 - Buena.  
 La nota que ha obtenido Couchsurfing en el usability review es de 83. En general la página funciona correctamente y se merece buena nota.
 El mayor problema que hemos encontrado es la experiencia para un usuario nuevo. Cuando entra por primera vez a la página, ha de registrarse para poder buscar un alojamiento. Una vez que el usuario se ha registrado y accede a la página principal, le puede resultar compleja porque tiene muchas opciones, sobre todo si la comparamos con las otras alternativas (Badi, piso compartido). Tampoco ayuda mucho la página, no da un tour o un tutorial sobre como usarla. Si el usuario busca la ayuda, solo la va a encontrar en inglés, por lo que tiene que superar la barrera del idioma.
 Otro problema que tiene es la cantidad de información personal que el usuario nuevo ha de introducir para interactuar con otros usuarios. Ha de explicar sus gustos, los idiomas que habla, los países que ha visitado, un breve biografía, etc. Es quizás demasiada información para un usuario que acaba de llegar y no ha usado la página.
