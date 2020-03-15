@@ -87,7 +87,7 @@ Hemos escogido estas experiencias de usuario porque reflejan la complejidad de l
 ![Método UX](img/usabilityReview.png) 1.d Usability Review
 ----
 
-[Documento de revisión de usabilidad](P1/UsabilityReviewCouchsurfing.jpg)  
+[Documento de revisión de usabilidad](P1/UsabilityReviewCouchsurfing.pdf)  
 Valoración final: 83 - Buena.  
 La nota que ha obtenido Couchsurfing en el usability review es de 83. En general la página funciona correctamente y se merece buena nota.
 El mayor problema que hemos encontrado es la experiencia para un usuario nuevo. Cuando entra por primera vez a la página, ha de registrarse para poder buscar un alojamiento. Una vez que el usuario se ha registrado y accede a la página principal, le puede resultar compleja porque tiene muchas opciones, sobre todo si la comparamos con las otras alternativas (Badi, piso compartido). Tampoco ayuda mucho la página, no da un tour o un tutorial sobre como usarla. Si el usuario busca la ayuda, solo la va a encontrar en inglés, por lo que tiene que superar la barrera del idioma.
