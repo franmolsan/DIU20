@@ -52,7 +52,7 @@ Tiene muchos problemas: aunque tengamos la sesión iniciada, el botón de inicia
 ![Iniciar sesión incompleto](P1/ComparteTuPisoLogin.JPG "No se puede iniciar sesion")
 
 ### ALTERNATIVA 4: PISO COMPARTIDO
-<https://www.pisocompartido.com/>
+<https://www.pisocompartido.com/>  
 Puedes ver los pisos que disponibles antes de registrarte en la página.
 El buscador está muy completo y tiene muchas opciones para buscar, aunque debería poderse filtrar por la edad de los compañeros. Al igual que badi, tiene mucha información sobre cada alojamiento.
 
