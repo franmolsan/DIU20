@@ -110,8 +110,7 @@ Realmente, una vez que el usuario se familiariza con la página, es bastante sen
 
 | Interesante | Críticas   | 
 | ------------- | ------- |
-| <ul><li>Dispone de diversas funcionalidades aparte de planificar una estancia, centradas en la comunicación entre usuarios: eventos, grupos, mensajes, etc.</li><li>Recomienda a los usuarios posibles destinos para viajar, indicando el número de anfitriones que hay en cada lugar</li><li> El buscador es completo y está disponible en todas las páginas.</li></ul> | <ul><li>En la web el buscador funciona solo en inglés. En la aplicación móvil también funciona en español (pero le da prioridad al inglés).</li><li>Los elementos de ayuda y más información solo están disponibles en inglés (tanto en la web como en la aplicación móvil)</li><li>No se pide confirmación al añadir una información, ni se puede deshacer fácilmente.</li><li>Para acceder a la página web y poder ver las funcionalidades que ofrece hay que registrarse.</li><li>
-(Hay que introducir demasiados datos para interactuar con otros usuarios, reservar alojamiento, etc.)</li></ul>|
+| <ul><li>Dispone de diversas funcionalidades aparte de planificar una estancia, centradas en la comunicación entre usuarios: eventos, grupos, mensajes, etc.</li><li>Recomienda a los usuarios posibles destinos para viajar, indicando el número de anfitriones que hay en cada lugar</li><li> El buscador es completo y está disponible en todas las páginas.</li></ul> | <ul><li>En la web el buscador funciona solo en inglés. En la aplicación móvil también funciona en español (pero le da prioridad al inglés).</li><li>Los elementos de ayuda y más información solo están disponibles en inglés (tanto en la web como en la aplicación móvil)</li><li>No se pide confirmación al añadir una información, ni se puede deshacer fácilmente.</li><li>Para acceder a la página web y poder ver las funcionalidades que ofrece hay que registrarse.</li><li>Hay que introducir demasiados datos para interactuar con otros usuarios, reservar alojamiento, etc.</li></ul>|
 | Preguntas | Nuevas ideas |
 | ------------- | ------- |
 <ul><li>Poner la ayuda y la búsqueda en español.</li><li>Poder ver las funcionalidades antes de registrarse.</li><li>¿Por qué es necesario introducir tanta información “irrelevante” (como los hobbies, los libros que más me han gustado,...) para poder contactar con un anfitrión?</li></ul> | <ul><li>Realizar un tutorial rápido cuando el usuario se registre, para mostrarle las diferentes funcionalidades que ofrece la página.</li><li>Ofrecer páginas de ayuda y preguntas frecuentes en español además de inglés.</li><li>Dar al usuario la posibilidad de deshacer sus acciones y pedir confirmación para las acciones más importantes.</li><li>Añadir un apartado de consejos para viajes, que nos explique la cultura del lugar de destino, documentación que necesitemos, números de emergencias, etc.</li></ul>
@@ -132,13 +131,16 @@ Asimismo añadiremos una nueva funcionalidad para que los usuarios puedan compar
 -----
 
 >>> Definir "User Map" y "Task Flow" ... 
-User/task matrix
+
+
+
+User/task matrix:
 
 | Grupos de usuario              | Novato | Experimentado | Moderador |
 |--------------------------------|--------|---------------|-----------|
 | Acceder al tutorial            | Alta   | Baja          | Baja      |
 | Acceder a la ayuda             | Alta   | Media         | Baja      |
-| <span style="color:red">some **Deshacer acciones** text</span>              | Alta   | Alta          | Alta      |
+| <span style="color:red"> **Deshacer acciones** </span>              | Alta   | Alta          | Alta      |
 | Entrar al apartado de consejos | Media  | Media         | Media     |
 
 
