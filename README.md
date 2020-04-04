@@ -152,6 +152,13 @@ User/task matrix:
 | Crear un comentario en consejo | Media   | Alta          | Baja      |
 
 
+![sitemap](P2/sitemap.jpg)
+
+
+
+[Sitemap (pdf)](P2/sitemap.pdf) 
+
+
 ![Método UX](img/labelling.png) 2.c Labelling
 ----
 
@@ -182,11 +189,13 @@ User/task matrix:
 | Perfil                   | Acceder al perfil del usuario y ver toda su información: edad, ciudad, gustos, fotografías, amigos, grupos, etc.                                      |
 | Editar perfil            | Modificar la información del perfil del usuario.                                                                                                      |
 | Añadir amigo             | Añadir otro usuario como amigo.                                                                                                                       |
-| Consejos                 | Muestra la sección de consejos, mostrando primero los consejos escritos por la página. Los consejos pueden ser votados positivamente y negativamente. |
+| Consejos                 | Muestra la sección de consejos, mostrando primero los consejos más relevantes y los escritos por los moderadores.                                     |
 | Crear consejo            | Permite escribir un consejo a cualquier usuario.                                                                                                      |
+| Añadir tags              | Añadir tags o etiquetas para clasificar un consejo. Por ejemplo: “Londres”, “Documentación”, "Gangas" o "Locales".                                    |
+| Añadir texto             | Añadir el texto del consejo.                                                                                                                          |
 | Ver consejo              | Vista de un consejo determinado.                                                                                                                      |
+| Valorar consejo          | Votar positiva o negativamente el consejo.                                                                                                            |
 | Escribir comentario      | Añadir un comentario sobre un consejo determinado.                                                                                                    |
-| Buscar consejos          | Dada una palabra o término clave, buscar consejos relacionados.                                                                                       |
 | Configuración            | Muestra un menú para elegir editar los datos de la cuenta del usuario o cerrar la sesión.                                                             |
 | Editar datos de cuenta   | Modificar la cuenta del usuario: nombre, correo electrónico, contraseña, teléfono, etc.                                                               |
 | Cerrar sesión            | Salir de la cuenta y ver la página como usuario no logueado.                                                                                          |
