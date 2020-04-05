@@ -222,9 +222,15 @@ Boceto de la página de ayuda
 
 En el panel (que es la página principal), se muestra un menú rápido para buscar, eventos cercanos, mensajes y comentarios nuevos, etc.
 Hemos creado un menú que se despliega y se esconde para que el usuario disponga de una visión más limpia del contenido, pero sin perder las funcionalidades del menú.
+
+
 Los consejos se buscan dependiendo de una ubicación y se pueden filtrar por nuevos, más votados, etc. Cuando seleccionas un consejo, puedes ver el título, el texto, las imágenes, los comentarios asociados y los votos que este ha recibido.
 A la hora de escribir un nuevo consejo, hay que añadir un título, un texto, las etiquetas (tags), y opcionalmente se pueden añadir imágenes. Estas pueden subirse tanto de la cámara como de la galería. 
-Hemos añadido también un menú para confirmar que el usuario quiere enviar o descartar un consejo. Esto reduce las posibilidades de que el usuario pueda enviar o descartar un consejo accidentalmente. Esta funcionalidad podría estar también en otras páginas del sistema, como en los eventos y mensajes.
+
+
+Hemos añadido también un menú para confirmar que el usuario quiere enviar o descartar un consejo, lo cual reduce las posibilidades de que el usuario pueda enviar o descartar un consejo accidentalmente. Esta funcionalidad podría estar también en otras páginas del sistema, como en los eventos y mensajes.
+
+
 En la pantalla de ayuda hay varias opciones: acceder un tutorial para entender las funcionalidades de la página, información sobre el uso de la aplicación móvil,  información sobre couchsurfing, consejos e información relativa a la seguridad y realizar una pregunta a un administrador de la página o un moderador.
 
 
