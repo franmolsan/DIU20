@@ -141,15 +141,16 @@ Asimismo añadiremos una nueva funcionalidad para que los usuarios puedan compar
 
 User/task matrix:
 
-| Grupos de usuario              | Novatos | Experimentado | Moderador |
-|--------------------------------|---------|---------------|-----------|
-| Acceder al tutorial            | Alta    | Baja          | Baja      |
-| Acceder a la ayuda             | Alta    | Media         | Baja      |
-| Deshacer acciones              | Alta    | Alta          | Alta      |
-| Entrar al apartado de consejos | Alta    | Alta          | Media     |
-| Crear consejo                  | Baja    | Media         | Media     |
-| Buscar consejo                 | Media   | Media         | Media     |
-| Crear un comentario en consejo | Media   | Alta          | Baja      |
+![User/task matrix)](P2/UserTaskMatrix.jpg) 
+
+Hemos elegido la matriz de tareas ya que nos permite representar la importancia de cada tarea para cada grupo de usuario y por lo tanto se adapta mejor a las nuevas propuestas que hemos hecho. También nos permite destacar las tareas que son más críticas e importantes, que son:
+* Acceder a la ayuda, ya que es clave que los usuarios novatos puedan consultarla de una manera sencilla.
+* Deshacer acciones, para evitar errores a la hora de mandar mensajes, escribir comentarios, etc.
+* Crear consejo, porque es la funcionalidad más importante del sistema de consejos que hemos creado. Si los usuarios no pueden crear consejos de una forma fácil, no se  verán incentivados a crearlos, por lo que habrá pocos consejos y este sistema no se utilizará mucho.
+
+
+
+Sitemap:
 
 
 ![sitemap](P2/sitemap.jpg)
@@ -165,51 +166,66 @@ User/task matrix:
 
 >>> Identificar términos para diálogo con usuario  
 
-| Término                  | Significado                                                                                                                                           |
-|--------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Panel                    | Página principal desde la que se realizan todas las actividades.                                                                                      |
-| Buscar                   | Buscar anfitriones, eventos, consejos, grupos y mensajes.                                                                                             |
-| Ver lista de anfitriones | Muestra una lista de anfitriones, que son el resultado de una búsqueda.                                                                               |
-| Enviar mensaje           | Permite enviar un mensaje a un anfitrión                                                                                                              |
-| Solicitar alojamiento    | Manda una petición a un anfitrión para alojarse.                                                                                                      |
-| Grupos                   | Una vista general de los grupos a los que pertenece el usuario y otros grupos interesantes                                                            |
-| Crear Grupo              | Permite añadir un nuevo grupo con una temática concreta                                                                                               |
-| Ver grupo                | Acceder a la vista general de un grupo, donde aparecen los participantes, las conversaciones, etc.                                                    |
-| Crear conversación       | Añadir una conversación/hilo en el grupo (como en un foro).                                                                                           |
-| Ver conversación         | Visualizar todos los mensajes y participantes de una conversación.                                                                                    |
-| Escribir comentario      | Añadir un nuevo comentario a la conversación.                                                                                                         |
-| Unirse al grupo          | Permite al usuario ser participante del grupo.                                                                                                        |
-| Eventos                  | Una vista general de los eventos que se realizan en la zona del usuario.                                                                              |
-| Crear evento             | Permite al usuario añadir un evento, indicando localización, temática y descripción.                                                                  |
-| Ver evento               | Acceder a los detalles y los participantes de un evento.                                                                                              |
-| Escribir comentario      | Añadir un comentario a la conversación del evento.                                                                                                    |
-| Unirse a evento          | El usuario confirma su asistencia a un evento y queda registrado como participante.                                                                   |
-| Buzón                    | Vista de todos los mensajes que el usuario ha recibido y enviado.                                                                                     |
-| Acceder a mensaje        | Ver el contenido de un mensaje.                                                                                                                       |
-| Perfil                   | Acceder al perfil del usuario y ver toda su información: edad, ciudad, gustos, fotografías, amigos, grupos, etc.                                      |
-| Editar perfil            | Modificar la información del perfil del usuario.                                                                                                      |
-| Añadir amigo             | Añadir otro usuario como amigo.                                                                                                                       |
-| Consejos                 | Muestra la sección de consejos, mostrando primero los consejos más relevantes y los escritos por los moderadores.                                     |
-| Crear consejo            | Permite escribir un consejo a cualquier usuario.                                                                                                      |
-| Añadir tags              | Añadir tags o etiquetas para clasificar un consejo. Por ejemplo: “Londres”, “Documentación”, "Gangas" o "Locales".                                    |
-| Añadir texto             | Añadir el texto del consejo.                                                                                                                          |
-| Ver consejo              | Vista de un consejo determinado.                                                                                                                      |
-| Valorar consejo          | Votar positiva o negativamente el consejo.                                                                                                            |
-| Escribir comentario      | Añadir un comentario sobre un consejo determinado.                                                                                                    |
-| Configuración            | Muestra un menú para elegir editar los datos de la cuenta del usuario o cerrar la sesión.                                                             |
-| Editar datos de cuenta   | Modificar la cuenta del usuario: nombre, correo electrónico, contraseña, teléfono, etc.                                                               |
-| Cerrar sesión            | Salir de la cuenta y ver la página como usuario no logueado.                                                                                          |
-| Ayuda                    | Muestra una sección en la que el usuario puede consultar dudas frecuentes y contactar con algún moderador.                                            |
-| Móvil                    | Muestra información relativa al uso de la aplicación móvil.                                                                                           |
-| Sobre Couchsurfing       | Muestra información sobre cómo funciona Couchsurfing, cómo usar el servicio e interactuar con otros "Couchsurfers”                                    |
-| Seguridad                | Muestra consejos básicos e información relevante relacionada con la seguridad en los viajes.                                                          |
-| Realizar una pregunta    | Permite realizar una consulta a un moderador o a un miembro del soporte técnico. 
-
+![labelling1](P2/labelling1.jpg)
+![labelling2](P2/labelling2.jpg) 
+![labelling3](P2/labelling3.jpg) 
+![labelling4](P2/labelling4.jpg) 
+![labelling5](P2/labelling5.jpg)
+![labelling6](P2/labelling6.jpg) 
 
 ![Método UX](img/Wireframes.png) 2.d Wireframes
 -----
 
 >>> Plantear el  diseño del layout para Web/movil (organización y simulación )
+
+[Bocetos (pdf)](P2/BocetoLofi.pdf)
+
+Boceto del Panel (pantalla principal)
+
+
+![Boceto del Panel (pantalla principal)](P2/BocetoPanel.jpg) 
+
+Boceto del Menú
+
+
+![Boceto del Menú](P2/BocetoMenu.jpg) 
+
+Boceto de la página de consejos
+
+
+![Boceto de la página de consejos](P2/BocetoListaConsejos.jpg) 
+
+ Boceto de la vista de un consejo
+
+![Boceto de la vista de un consejo](P2/BocetoConsejo.jpg)
+
+Boceto de la página para añadir un nuevo consejo
+
+
+![Boceto de la página para añadir un nuevo consejo](P2/BocetoNuevoConsejo.jpg)
+
+ Boceto del menú para confirmar el envío de un consejo
+
+ 
+![Boceto del menú para confirmar el envío de un consejo](P2/BocetoConfirmacionEnvio.jpg)
+
+Boceto del menú para descartar un consejo
+
+
+![Boceto del menú para descartar un consejo](P2/BocetoDescartar.jpg) 
+
+Boceto de la página de ayuda
+
+
+![Boceto de la página de ayuda](P2/BocetoAyuda.jpg) 
+
+
+En el panel (que es la página principal), se muestra un menú rápido para buscar, eventos cercanos, mensajes y comentarios nuevos, etc.
+Hemos creado un menú que se despliega y se esconde para que el usuario disponga de una visión más limpia del contenido, pero sin perder las funcionalidades del menú.
+Los consejos se buscan dependiendo de una ubicación y se pueden filtrar por nuevos, más votados, etc. Cuando seleccionas un consejo, puedes ver el título, el texto, las imágenes, los comentarios asociados y los votos que este ha recibido.
+A la hora de escribir un nuevo consejo, hay que añadir un título, un texto, las etiquetas (tags), y opcionalmente se pueden añadir imágenes. Estas pueden subirse tanto de la cámara como de la galería. 
+Hemos añadido también un menú para confirmar que el usuario quiere enviar o descartar un consejo. Esto reduce las posibilidades de que el usuario pueda enviar o descartar un consejo accidentalmente. Esta funcionalidad podría estar también en otras páginas del sistema, como en los eventos y mensajes.
+En la pantalla de ayuda hay varias opciones: acceder un tutorial para entender las funcionalidades de la página, información sobre el uso de la aplicación móvil,  información sobre couchsurfing, consejos e información relativa a la seguridad y realizar una pregunta a un administrador de la página o un moderador.
 
 
 ## Paso 3. Make (Prototyping)
