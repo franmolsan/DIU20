@@ -54,7 +54,7 @@ Sitemap:
 
 ## Wireframes
 
-[Bocetos (pdf)](img/BocetoLofi.pdf)
+[Bocetos (pdf)](BocetoLofi.pdf)
 
 Boceto del Panel (pantalla principal)
 
