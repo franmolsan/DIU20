@@ -126,6 +126,7 @@ Versión para Facebook:
 ![logo160](img/logo160.png)
 
 Versión para Instagram:
+
 ![logo110](img/logo110.png)
 
 
