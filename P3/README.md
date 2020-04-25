@@ -37,7 +37,7 @@ Hay varias diferencias con lo que nosotros tenemos en nuestra práctica. Por eje
 
 Como conclusión, aunque los métodos que hemos realizado son relativamente similares a los usa el equipo de diseño de MuseMap, nos falta aplicar algunos métodos basados en la interacción con los usuarios (como el Empathy map, entrevistas/preguntas a los usuarios, Affinity Mapping). También sería muy interesante la posibilidad de mostrar nuestros bocetos a los usuarios, para que podamos adaptarlos a sus indicaciones. De esta forma tendríamos más seguridad a la hora de empezar el desarrollo de la aplicación.
 
-
+<a name="propuestaDiseño"></a>
 ## Propuesta de elementos de diseño o patrones a usar 
 
 Nuestra aplicación se desarrollará para dispositivos Android, por lo que sería recomendable utilizar las [guidelines que nos proporciona Google](https://www.thinkwithgoogle.com/_qs/documents/1714/Google_Guia_UX_uBbvE4i.pdf).

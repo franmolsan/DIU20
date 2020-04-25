@@ -4,14 +4,15 @@ Prácticas Diseño Interfaces de Usuario 2019-20 (Economía Colaborativa)
 Grupo: DIU2.MAF.  Curso: 2019/20
 
 Proyecto: 
->>> Decida el nombre corto de su propuesta en la práctica 2 
+Friend's Home
 
 Descripción: 
 
->>> Describa la idea de su producto en la práctica 2 
 
 Logotipo: 
->>> Opcionalmente si diseña un logotipo para su producto en la práctica 3 pongalo aqui
+
+![logo110](img/logo110.png)
+
 
 Miembros
  * :bust_in_silhouette:  Francisco José Molina Sánchez     :octocat:  
@@ -21,12 +22,10 @@ Miembros
 
 ----- 
 
->>> En esta práctica estudiaremos un caso de plataforma de economía colaborativa y realizaremos una propuesta para su diseño Web/movil. Utilizaremos herramientas y entregables descritos en el siguiente CheckList (https://github.com/mgea/UX-DIU-Checklist) Elimine este texto desde la práctica 1
+ Utilizaremos herramientas y entregables descritos en el siguiente CheckList (https://github.com/mgea/UX-DIU-Checklist)
 
 
 Qué es economia colaborativa: Martínez-Polo, J. (2019). **El fenómeno del consumo colaborativo: del intercambio de bienes y servicios a la economía de las plataformas**, *Sphera Publica, 1*(19), 24-46. http://sphera.ucam.edu/index.php/sphera-01/article/view/363/14141434
-
->>> Este documento es el esqueleto del report final de la práctica. Aparte de subir cada entrega a PRADO, se debe actualizar y dar formato de informe final a este documento online. Elimine este texto desde la práctica 1
 
 
 # Proceso de Diseño 
@@ -114,13 +113,18 @@ Término | Significado
 ![Método UX](img/landing-page.png)  3.b Logotipo
 ----
 
+Para la creación de nuestro logotipo, hemos utilizado iconos extraídos de la página [fontawesome](https://fontawesome.com/) que posteriormente han sido editadas con Photoshop.
+La resolución del logo es de 400x400 píxeles pues es la que usa Twitter, aunque también tenemos versiones de 110x110 px para Instagram y otra de 160x160 px para Facebook. La forma del logo es circular para la versión de Twitter e Instagram, y rectangular para la versión de Facebook.
+![logo400](img/logo400.png)
+![logo160](img/logo160.png)
+![logo110](img/logo110.png)
 
->>> Si diseña un logotipo, explique la herramienta utilizada y la resolución empleada. ¿Puede usar esta imagen como cabecera de Twitter, por ejemplo, o necesita otra?
+
 
 ![Método UX](img/guidelines.png) 3.c Guidelines
 ----
 
->>> Tras documentarse, muestre las deciones tomadas sobre Patrones IU a usar para la fase siguiente de prototipado. 
+Dado que nuestro proyecto está enfocado hacia Android, vamos a usar las guías de diseño que propone Google. [Aquí](P3/README#propuestaDiseño) se puede ver nuestra propuesta en más detalle, incluyendo la paleta de colores y la tipografía.
 
 ![Método UX](img/mockup.png)  3.d Video
 ----
