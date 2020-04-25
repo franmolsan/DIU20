@@ -61,10 +61,11 @@ Si respetamos estos principios de diseño (que tienen en común las aplicaciones
 
 
 La paleta de colores la hemos generado usando la herramienta [coolors](https://coolors.co/). 
+
 [Paleta](img/paleta.png "Paleta"):
 ![Paleta](img/paleta.png "Paleta")
 
-La tipografía que vamos a utilizar es Roboto, una fuente de Google, limpia y minimalista.
+La tipografía que vamos a utilizar es [Roboto](https://fonts.google.com/specimen/Roboto), una fuente de Google, limpia y minimalista.
 
 Aquí adjuntamos un [prototipo](img/BocetoConPaleta.png "Prototipo") de la página principal (panel) en el que se muestra la paleta y la tipografía:
 
