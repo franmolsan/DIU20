@@ -59,7 +59,7 @@ Nuestra aplicación se desarrollará para dispositivos Android, por lo que serí
 Si respetamos estos principios de diseño (que tienen en común las aplicaciones de Android), los usuarios no tendrán que realizar el esfuero extra de aprender a usar nuestra aplicación; por tanto, es más probable que su experiencia sea positiva.
 
 
-La paleta de colores la hemos generado usando la herramienta [coolors](https://coolors.co/). 
+La paleta de colores la hemos generado usando la herramienta [coolors](https://coolors.co/). Hemos escogido colores rojizos/anaranjados para reflejar familiaridad, comodidad, hospitalidad, que podríamos encontrar en casa de un amigo (de ahí el nombre, "Friend's Home").
 
 [Paleta](img/paleta.png "Paleta"):
 ![Paleta](img/paleta.png "Paleta")
