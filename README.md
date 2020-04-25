@@ -115,8 +115,17 @@ Término | Significado
 
 Para la creación de nuestro logotipo, hemos utilizado iconos extraídos de la página [fontawesome](https://fontawesome.com/) que posteriormente han sido editadas con Photoshop.
 La resolución del logo es de 400x400 píxeles pues es la que usa Twitter, aunque también tenemos versiones de 110x110 px para Instagram y otra de 160x160 px para Facebook. La forma del logo es circular para la versión de Twitter e Instagram, y rectangular para la versión de Facebook.
+
+
+Versión para Twitter:
+
 ![logo400](img/logo400.png)
+
+Versión para Facebook:
+
 ![logo160](img/logo160.png)
+
+Versión para Instagram:
 ![logo110](img/logo110.png)
 
 
@@ -124,7 +133,7 @@ La resolución del logo es de 400x400 píxeles pues es la que usa Twitter, aunqu
 ![Método UX](img/guidelines.png) 3.c Guidelines
 ----
 
-Dado que nuestro proyecto está enfocado hacia Android, vamos a usar las guías de diseño que propone Google. [Aquí](P3/README#propuestaDiseño) se puede ver nuestra propuesta en más detalle, incluyendo la paleta de colores y la tipografía.
+Dado que nuestro proyecto está enfocado hacia Android, vamos a usar las guías de diseño que propone Google. [Aquí](P3/README) se puede ver nuestra propuesta en más detalle, incluyendo la paleta de colores y la tipografía.
 
 ![Método UX](img/mockup.png)  3.d Video
 ----
