@@ -34,27 +34,27 @@ Qué es economia colaborativa: Martínez-Polo, J. (2019). **El fenómeno del con
 
 ![Método UX](img/Competitive.png) 1.a Competitive Analysis
 -----
-
->>> Describe brevemente características de las aplicaciones que tienes asignadas, y por qué has elegido una de ellas (150-300 caracteres) 
+Antes de empezar el diseño de nuestra propuesta, hemos de investigar las alternativas que ya existen, 
+pues son nuestra competencia. Analizando sus aplicaciones podemos entender sus fuertes y débiles, y encontrar un factor que pueda hacer destacar a nuestra propuesta. Con ese objetivo, [aquí](P1/README.md) analizamos cuatro alternativas para compartir alojamiento, y elegimos una de ellas ([Couchsurfing](https://www.couchsurfing.com/)) para analizarla más en profundidad.
 
 ![Método UX](img/Persona.png) 1.b Persona
 -----
+En este apartado proponemos dos personas ficticias que pueden ser usuarios interesados en .
 
->>> Comenta brevemente porqué has seleccionado a esas personas y sube una captura de pantalla de su ficha  (80-150 caracteres)
+[Aquí](P1/README.md) se pueden ver las dos personas y sus fichas.
+
 
 ![Método UX](img/JourneyMap.png) 1.c User Journey Map
 ----
+En este apartado vamos a analizar cómo interaccionan con Couchsurfing cada una de las personas ficticias que hemos creado. De esta forma podemos entender mejor cuáles son los problemas (y los puntos fuertes) del diseño de Couchsurfing.
 
-
->>> Comenta brevemente porqué has escogido estas dos experiencias de usuario (y si consideras que son habituales) (80-150 caracteres) 
+[Aquí](P1/README.md) se pueden ver ambos Journey Maps, junto con un pequeño resumen de su experiencia.
 
 ![Método UX](img/usabilityReview.png) 1.d Usability Review
 ----
->>>  Revisión de usabilidad: (toma los siguientes documentos de referncia y verifica puntos de verificación de  usabilidad
->>>> SE deben incluir claramente los siguientes elementos
->>> - Enlace al documento:  (sube a github el xls/pdf) 
->>> - Valoración final (numérica): 
->>> - Comentario sobre la valoración:  (60-120 caracteres)
+[Documento de revisión de usabilidad de Couchsurfing](P1/UsabilityReviewCouchsurfing.pdf)  
+Valoración final: 83 - Buena.  
+La nota que ha obtenido Couchsurfing en el usability review es de 83. En general la página funciona correctamente y se merece buena nota, pero tiene ciertos problemas que [aquí](P1/README.md) comentamos con detalle.
 
 
 ## Paso 2. UX Design  
@@ -63,42 +63,34 @@ Qué es economia colaborativa: Martínez-Polo, J. (2019). **El fenómeno del con
 ![Método UX](img/feedback-capture-grid.png) 2.a Feedback Capture Grid
 ----
 
+Tras el proceso de análisis que realizamos en la práctica anterior, ahora realizamos una Feeback Capture Grid (Malla receptora de información),
+en la que identificamos los puntos fuertes y débiles del diseño de Couchsurfing, identificamos posibles  mejoras y proponemos nuevas funcionalidades.
 
->>> Comenta con un diagrama los aspectos más destacados a modo de conclusion de la práctica anterior,
-
-
- Interesante | Críticas     
-| ------------- | -------
-  Preguntas | Nuevas ideas
-  
-  
-  
->>> ¿Que planteas como "propuesta de valor" para un nuevo diseño de aplicación para economia colaborativa ?
->>> Problema e hipótesis
->>>  Que planteas como "propuesta de valor" para un nuevo diseño de aplicación para economia colaborativa te
->>> (150-200 caracteres)
+[Aquí](P2/README.md) se pueden ver la Feeback Capture Grid y nuestras reflexiones.
 
 ![Método UX](img/Sitemap.png) 2.b Tasks & Sitemap 
 -----
+Para entender la importancia de las funciones que hemos propuesto (y de otras que ya existen en la
+aplicación), realizamos una User/task matrix en la asignamos un nivel de importancia diferente para cada
+perfil de usuario y cada tarea.
 
->>> Definir "User Map" y "Task Flow" ... 
+También realizamos un sitemap para mostrar la estructura de la aplicación que proponemos. 
 
+[Aquí](P2/README.md) se pueden ver la User/task matrix y el Sitemap.
 
 ![Método UX](img/labelling.png) 2.c Labelling 
 ----
 
+En este apartado describimos cada elemento del Sitemap, especificando el significado de cada etiqueta (label). Asimismo añadimos iconos para cada elemento (que luego usaremos en los wireframes).
 
->>> Identificar términos para diálogo con usuario  
-
-Término | Significado     
-| ------------- | -------
-  Login¿?  | acceder a plataforma
-
+[Aquí](P2/README.md) se puede ver el labelling.
 
 ![Método UX](img/Wireframes.png) 2.d Wireframes
 -----
 
->>> Plantear el  diseño del layout para Web/movil (organización y simulación ) 
+Hemos realizado unos bocetos Lo-Fi para mostrar el diseño de varias de las páginas del Sitemap.
+
+[Aquí](P2/README.md) se pueden ver los bocetos individualmente y [aquí](P2/BocetoLofi.pdf) pueden verse todos los bocetos en un PDF.
 
 
 ## Paso 3. Mi equipo UX-Case Study 
@@ -106,9 +98,7 @@ Término | Significado
 
 ![Método UX](img/moodboard.png) 3.a ¿Como se cuenta un UX-Case Study?
 -----
-
-
->>> Analizar lo aprendido de la experiencia MuseApp 
+En esta sección vamos a analizar el [UX-Case-Study de MuseMap](https://blog.prototypr.io/musemap-street-art-app-ux-case-study-9bec6a99823b), una aplicación para promover el arte público de la Ciudad de Londres. Vamos a comparar las técnicas y métodos UX que el equipo de diseño de MuseMap usa con las técnicas que nosotros aplicamos en las prácticas. [Aquí](P3/README.md) se puede ver el análisis en detalle.
 
 ![Método UX](img/landing-page.png)  3.b Logotipo
 ----
@@ -134,7 +124,7 @@ Versión para Instagram:
 ![Método UX](img/guidelines.png) 3.c Guidelines
 ----
 
-Dado que nuestro proyecto está enfocado hacia Android, vamos a usar las guías de diseño que propone Google. [Aquí](P3/README) se puede ver nuestra propuesta en más detalle, incluyendo la paleta de colores y la tipografía.
+Dado que nuestro proyecto está enfocado hacia Android, vamos a usar las guías de diseño que propone Google. [Aquí](P3/README.md) se puede ver nuestra propuesta en más detalle, incluyendo la paleta de colores y la tipografía.
 
 ![Método UX](img/mockup.png)  3.d Video
 ----
