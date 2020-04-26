@@ -19,7 +19,7 @@ Una vez que te registras, ya puedes buscar alojamientos, grupos, eventos, etc. A
 No permite buscar alojamientos antes de registrarse (igual que couchsurfing).
 Tiene muchos problemas: aunque tengamos la sesión iniciada, el botón de iniciar sesión sigue apareciendo, una vez que se cierra la sesión que se crea al registrarse  no se puede iniciar porque la página de inicio de sesión está incompleta (no tiene ni formulario); no se puede buscar (o al menos no fácilmente), etc.
 
-<!-- ![Iniciar sesión incompleto](img/ComparteTuPisoLogin.JPG "No se puede iniciar sesion")-->
+![Iniciar sesión incompleto](img/ComparteTuPisoLogin.JPG "No se puede iniciar sesion")
 
 ### ALTERNATIVA 4: [PISO COMPARTIDO](<https://www.pisocompartido.com/>)
   

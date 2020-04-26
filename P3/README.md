@@ -74,7 +74,7 @@ Aquí adjuntamos un [prototipo](img/BocetoConPaleta.png "Prototipo") de la pági
 ![Prototipo](img/BocetoConPaleta.png "prototipo")
 
 ## Historia en Video del UX Case Study
-
+Enlace al vídeo: https://drive.google.com/file/d/1d21bSMZi6To9tl2-JwMNXda0ewdAA_Z0/view?usp=sharing
 
 ## Documentación. Valoración del equipo sobre la realización de esta práctica o los problemas surgidos
  En esta práctica hemos analizado el UX Case Study de MuseMap, con el que hemos podido comprobar que los métodos UX que hemos realizado en las prácticas anteriores son muy similares a los que puede aplicar un equipo de diseño real. Con este análisis también nos hemos dado cuenta de la importancia de realizar un estudio de los usuarios objetivo de la aplicación, y de lo útil que es probar nuestros bocetos y diseños con personas reales además de personas ficticias. 

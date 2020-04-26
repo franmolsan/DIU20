@@ -133,7 +133,8 @@ Dado que nuestro proyecto está enfocado hacia Android, vamos a usar las guías 
 ![Método UX](img/mockup.png)  3.d Video
 ----
 
->>> Documente y resuma el diseño de su producto en forma de video de 90 segundos aprox
+[Enlace al vídeo](https://drive.google.com/file/d/1d21bSMZi6To9tl2-JwMNXda0ewdAA_Z0/view?usp=sharing)
+
 
 
 ## Paso 4. Evaluación 
