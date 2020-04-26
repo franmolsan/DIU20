@@ -58,6 +58,9 @@ Nuestra aplicación se desarrollará para dispositivos Android, por lo que serí
 
 Si respetamos estos principios de diseño (que tienen en común las aplicaciones de Android), los usuarios no tendrán que realizar el esfuero extra de aprender a usar nuestra aplicación; por tanto, es más probable que su experiencia sea positiva.
 
+También hemos encontrado otros patrones de diseño UI que son interesantes:
+  * [Inline help box](https://ui-patterns.com/patterns/InlineHelpBox): Usando este patrón podemos explicar algún elemento más complejo a los usuarios en el mismo lugar en el que se encuentra el elemento, por lo que los usuarios no necesitan desplazarse a la página de ayuda.
+  * [Steps Left](https://ui-patterns.com/patterns/StepsLeft): si usamos este patrón para tareas complejas, el usuario podrá ver rápidamente en qué pasos ha realizado y cuáles le quedan para completar la tarea.
 
 La paleta de colores la hemos generado usando la herramienta [coolors](https://coolors.co/). Hemos escogido colores rojizos/anaranjados para reflejar familiaridad, comodidad, hospitalidad, que podríamos encontrar en casa de un amigo (de ahí el nombre, "Friend's Home").
 
@@ -74,4 +77,8 @@ Aquí adjuntamos un [prototipo](img/BocetoConPaleta.png "Prototipo") de la pági
 
 
 ## Documentación. Valoración del equipo sobre la realización de esta práctica o los problemas surgidos
- 
+ En esta práctica hemos analizado el UX Case Study de MuseMap, con el que hemos podido comprobar que los métodos UX que hemos realizado en las prácticas anteriores son muy similares a los que puede aplicar un equipo de diseño real. Con este análisis también nos hemos dado cuenta de la importancia de realizar un estudio de los usuarios objetivo de la aplicación, y de lo útil que es probar nuestros bocetos y diseños con personas reales además de personas ficticias. 
+
+Asimismo hemos estudiado principios de diseño UX y hemos entendido la importancia que tienen a la hora de diseñar una aplicación, pues si se respetan y se aplican correctamente la experiencia del usuario será mucho más positiva. En nuestro caso, como nuestra aplicación está enfocada a Android, nos hemos fijado especialmente en los patrones que propone Google.
+
+Finalmente, hemos estructurado el repositorio para que tenga una estructura de UX Case Study (similar a la estructura de  MuseMap), y hemos realizado el vídeo explicando nuestra propuesta. Queremos destacar la dificultad para crear el vídeo, ya que debido a su duración limitada no hemos podido profundizar demasiado en los métodos UX que usamos en la realización de otras prácticas.

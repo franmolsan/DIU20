@@ -6,7 +6,7 @@ Grupo: DIU2.MAF.  Curso: 2019/20
 Proyecto: 
 Friend's Home
 
-Descripción: 
+Descripción: Friend's Home es una aplicación que conecta a viajeros y anfitriones de todo el mundo para compartir alojamiento y experiencias. Basada en Couchsurfing, pero mejorando ciertas características y añadiendo funcionalidades, queremos que Friend's Home pueda ser usada por gente de todo tipo de gente para recorrer el mundo.
 
 
 Logotipo: 
@@ -21,8 +21,12 @@ Miembros
   [@MangelMolina](https://github.com/MangelMolina)
 
 ----- 
+¿Alguna vez has tenido ganas de viajar pero no has encontrado ningún alojamiento que se ajuste a tu presupuesto? ¿Quieres visitar lugares nuevos pero no te apetece gastar la mayoría de tu dinero en una habitación para dormir? Gracias a la economía colaborativa, han surgido nuevas alternativas que nos permiten compartir alojamiento a la hora de viajar, de forma que podemos ahorrar dinero a la vez que hacemos amigos y vivimos nuevas experiencias.
+En eso se basa nuestra propuesta, Friend's Home, que busca utilizar esta fórmula colaborativa para que gente de todo el mundo pueda conectar, y compartir alojamiento y vivencias.
 
- Utilizaremos herramientas y entregables descritos en el siguiente CheckList (https://github.com/mgea/UX-DIU-Checklist)
+
+
+Utilizaremos herramientas y entregables descritos en el siguiente CheckList (https://github.com/mgea/UX-DIU-Checklist)
 
 
 Qué es economia colaborativa: Martínez-Polo, J. (2019). **El fenómeno del consumo colaborativo: del intercambio de bienes y servicios a la economía de las plataformas**, *Sphera Publica, 1*(19), 24-46. http://sphera.ucam.edu/index.php/sphera-01/article/view/363/14141434
