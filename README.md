@@ -39,7 +39,7 @@ pues son nuestra competencia. Analizando sus aplicaciones podemos entender sus f
 
 ![Método UX](img/Persona.png) 1.b Persona
 -----
-En este apartado proponemos dos personas ficticias que pueden ser usuarios interesados en .
+En este apartado proponemos dos personas ficticias que pueden ser usuarios interesados en este tipo de aplicaciones.
 
 [Aquí](P1/README.md) se pueden ver las dos personas y sus fichas.
 
