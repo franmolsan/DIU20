@@ -40,7 +40,7 @@ Descripcion y hoja de valoración.
 
 ## User Testing
 
-En este apartado explicaremos cómo [Josefina](/P1/img/JourneyJosefina.jpg) , la persona ficticia que creamos en la P1, interactúa con cada una de las aplicaciones propuestas en los casos anteriores. Así, obtendremos una descripción de una mapa de experiencia de usuario para cada uno de los casos.
+En este apartado explicaremos cómo [Josefina](/P1/img/PersonaJosefina.jpg) , la persona ficticia que creamos en la P1, interactúa con cada una de las aplicaciones propuestas en los casos anteriores. Así, obtendremos una descripción de una mapa de experiencia de usuario para cada uno de los casos.
 
 ### Experiencia 1
 
