@@ -142,25 +142,34 @@ Dado que nuestro proyecto está enfocado hacia Android, vamos a usar las guías 
 
 ![Método UX](img/ABtesting.png) 4.a Casos asignados
 ----
+En esta práctica realizaremos la evaluación de tres UX Case Study de otros grupos de prácticas:
+
+* DIU1.LEJIA: [enlace al repositorio](https://github.com/luiser1996/DIU20)
+* DIU.Mango: [enlace al repositorio](https://github.com/Dunspa/DIU20)
+* DIU3.JoinsTheBattle: [enlace al repositorio](https://github.com/ralesdi/DIU20)
 
 
->>> Descripción de las asignaciones (3 UX Case Study) y enlace a  sus repositorios.
-
->>>> En la seccioón P4/readme.md se debe acceder además a sus respectivas hojas de evaluación y conclusiones 
+[Aquí](P4/README.md) se pueden ver las evaluaciones en detalle.
 
 
 ![Método UX](img/usability-testing.png) 4.b User Testing
 ----
 
->>> Seleccione a una de sus personas ficticias. Exprese las ideas de posibles situaciones conflictivas de esa persona en las propuestas evaluadas
+En este apartado explicaremos cómo [Josefina](/P1/img/PersonaJosefina.jpg), la persona ficticia que creamos en la P1, interactúa con cada una de las aplicaciones propuestas en los casos anteriores. Así, obtendremos una descripción de una mapa de experiencia de usuario para cada uno de los casos.
+
+[Aquí](P4/README.md) se puede ver la experiencia de Josefina con cada una de las aplicaciones propuestas.
 
 
 ![Método UX](img/Survey.png). 4.c Ranking 
 ----
 
->>> Concluya con un ranking de los casos evaluados 
+El ranking de casos ha sido el siguiente:
 
->>> Valoración personal 
+1. DIU2.Mango
+2. DIU3.JoinsTheBattle
+3. DIU1.LEJIA
+
+[Aquí](P4/README.md) se pueden ver las conclusiones que hemos sacado sobre la realización de esta práctica.
 
 
 ## Paso 5. Evaluación de Accesibilidad  
