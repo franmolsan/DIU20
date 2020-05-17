@@ -30,8 +30,28 @@ Este caso ha recibido una evaluación de 76, ya que está bastante correcto pero
 [Aquí](DIU1.LEJIA-review.pdf) está el documento con la revisión completa.
 
 ## Caso 2
+El equipo [DUI2.Mango](https://github.com/Dunspa/DIU20) está formado por Jose Luis Gallego Peña. Su propuesta es HabiCompa, una aplicación móvil para alquilar habitaciones y compartir piso.
 
-Descripcion y hoja de valoración.  
+Puntos fuertes:
+
+*  La explicación de la propuesta está muy detallada y expresa claramente las nuevas funcionalidades.
+
+*  El vídeo resume y explica con claridad la historia del diseño del producto propuesto.
+
+*  El labelling es muy completo, ya que añade iconos y traducción al inglés para cada etiqueta.
+
+
+Puntos débiles:
+
+* No se ha añadido un logotipo.
+
+*  El readme de la página principal está escueto y no se han borrado las indicaciones iniciales para realizar la práctica.
+
+* En el sitemap no se ha considerado una página para el login o el registro.
+   
+Este caso ha recibido una evaluación de 91 (excelente). En general, está muy bien hecho y se nota que se han esforzado mucho en cada práctica. Como principal punto de mejora, se podría añadir un logotipo para la propuesta, ya que permitiría diferenciarla y no costaría mucho diseñarlo.
+
+[Aquí](DIU2.Mango-review.pdf) está el documento con la revisión completa.
 
 
 ## Caso 3
@@ -48,9 +68,14 @@ Josefina va a realizar un viaje a Albania, y quiere buscar un compañero de viaj
 Utiliza CraneTrip (Caso 1) pero al entrar en la aplicación, no encuentra un grupo con el destino al que ella quiere viajar y decide crear uno. Tras buscar mucho, no consigue encontrar la manera de crear su propio grupo, por lo que acaba frustrada y deja de utilizar la aplicación.
 
 
-Describe la experiencia 2
+### Experiencia 2
 
-Describe la experiencia 3
+Josefina se siente sola, por lo que quiere empezar a compartir una habitación de su piso.
+Para ello decide utilizar HabiCompa. Tras entrar en el foro para consultar información sobre un tema, Josefina se equivoca y escribe sin querer en él, pero no hay ninguna función para borrar el mensaje por lo que quedará ahí escrito y no podrá eliminarlo.
+
+
+
+### Experiencia 3
 
 
 ## Conclusiones
